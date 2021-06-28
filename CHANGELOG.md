@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.2.2](https://github.com/tyrcord/tmodel_dart/releases/tag/v0.2.2) (2021-06-28)
+
+### Enhancements
+
+- Update dependencies.
+
 ## [0.2.1](https://github.com/tyrcord/tmodel_dart/releases/tag/v0.2.1) (2021-05-16)
 
 ### Improvements
