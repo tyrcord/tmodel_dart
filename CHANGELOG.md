@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.3.0](https://github.com/tyrcord/tmodel_dart/releases/tag/v0.3.0) (2021-07-01)
+
+### Breaking Changes
+
+- Refactor TModel.
+
 ## [0.2.2](https://github.com/tyrcord/tmodel_dart/releases/tag/v0.2.2) (2021-06-28)
 
 ### Enhancements
